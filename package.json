@@ -1,0 +1,16 @@
+{
+  "name": "cryptography-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/test.js",
+  "scripts": {
+    "dev": "node ./src/test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethereum-cryptography": "^1.1.2"
+  }
+}
